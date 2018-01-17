@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1180C781-9F11-4CB4-B3A0-6C9457F18EEA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewsNepal/Pages/NewsTabHome.xaml.cs">
+    <Files>
+      <File FileName="NewsNepal/Pages/NewsTabHome.xaml" Line="3" Column="22" />
+      <File FileName="NewsNepal/Pages/NewsTabHome.xaml.cs" Line="8" Column="50" />
+      <File FileName="NewsNepal/App.xaml.cs" Line="12" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NewsNepal.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.080AB1A7-5F44-42EC-81D9-E1F8E2660DC5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.NewsNepal.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
